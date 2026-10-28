@@ -4,7 +4,7 @@ Welcome to the Kastoria Dev Core organization! We are a team of students in Kast
 
 ## About Us
 
-Kastoria Dev Core is a group organized by students in Kastoria, aiming to build useful software for the city and the university, and to learn by working on real projects as a team. Some of our projects solve everyday problems, like getting around with the city buses, and some are just for fun. Everything we make is open source. Our team mainly consists of students from the Department of Informatics of the University of Western Macedonia, but we welcome anyone interested in contributing in any way they can.
+Kastoria Dev Core is a group organized by students, aiming to build useful software, and to learn by working on real projects as a team. Most of what we make is open source. Our team consists of students from the Department of Informatics from the University of Western Macedonia based in Kastoria, but we welcome anyone interested in contributing in any way they can.
 
 ## Get Involved
 
