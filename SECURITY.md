@@ -4,7 +4,7 @@
 
 Please do not open a public issue for security problems.
 
-Use GitHub's private vulnerability reporting instead: open the affected repository, go to the **Security** tab and click **Report a vulnerability**.
+Email us at [kastoriadevcore@michadasis.com](mailto:kastoriadevcore@michadasis.com), or use GitHub's private vulnerability reporting: open the affected repository, go to the **Security** tab and click **Report a vulnerability**.
 
 Include:
 
