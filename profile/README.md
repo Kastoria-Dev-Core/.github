@@ -8,9 +8,9 @@ Kastoria Dev Core is a group organized by students, aiming to build useful softw
 
 ## Get Involved
 
-Participation in our projects is voluntary and open to students of any department or year, with or without prior experience. To get started, pick an open issue in any of our repositories, or open a new one with your own idea.
+Participation in our projects is voluntary and open to students of any department or year, with or without prior experience. To get started, pick an open issue in any of our repositories, or email us your own idea at [kastoriadevcore@michadasis.com](mailto:kastoriadevcore@michadasis.com).
 
-For more information, feel free to open an issue or a discussion in any of our repositories.
+For anything else, a bug in one of our apps, a question, or an idea, email us at [kastoriadevcore@michadasis.com](mailto:kastoriadevcore@michadasis.com).
 
 ---
 
